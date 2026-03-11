@@ -9,6 +9,7 @@ A curated collection of fascinating technologies, frameworks, tools, and innovat
 - [About](#about)
 - [Featured Technologies](#featured-technologies)
   - [Varlock](#-varlock)
+  - [Slidev](#-slidev)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -35,6 +36,22 @@ Declarative schema for environment variables with full context for AI agents whi
 **Use Case:** Secure secret management for applications that integrate with AI agents like OpenAI, while preventing accidental exposure of API keys and tokens.
 
 ---
+
+### 📊 [Slidev](https://sli.dev/)
+
+**Presentation slides for developers**
+
+A markdown-driven presentation framework built with Vue and Vite. Create beautiful, interactive slides using code. Features include:
+- Write slides in Markdown with YAML frontmatter
+- Live editing with integrated side editor
+- Code syntax highlighting & line highlighting
+- Animations, transitions, and drawing tools
+- Export to PDF
+- Themes and customizable layouts
+- Monaco Editor integration for interactive code
+- Works with AI for slide generation
+
+**Use Case:** Perfect for developer talks, technical presentations, and conferences where you want to code and present seamlessly.
 
 ## Contributing
 
