@@ -10,6 +10,7 @@ A curated collection of fascinating technologies, frameworks, tools, and innovat
 - [Featured Technologies](#featured-technologies)
   - [Varlock](#-varlock)
   - [Slidev](#-slidev)
+  - [Marp](#-marp)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -52,6 +53,24 @@ A markdown-driven presentation framework built with Vue and Vite. Create beautif
 - Works with AI for slide generation
 
 **Use Case:** Perfect for developer talks, technical presentations, and conferences where you want to code and present seamlessly.
+
+---
+
+### 🎨 [Marp](https://marp.app/)
+
+**Markdown Presentation Ecosystem**
+
+A lightweight, open-source tool for creating beautiful slide decks using Markdown. Simple format-based on CommonMark with `---` to split pages. Features include:
+- Write slides in plain Markdown
+- Built-in themes (default, gaia, uncover)
+- Custom CSS theming
+- Export to HTML, PDF, PowerPoint
+- VS Code extension for live preview
+- CLI tool for batch conversion
+- Pluggable architecture
+- Math typesetting & auto-scaling
+
+**Use Case:** Ideal for quick presentations, documentation slides, and developers who prefer writing in Markdown over GUI tools.
 
 ## Contributing
 
