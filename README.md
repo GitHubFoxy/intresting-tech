@@ -8,13 +8,7 @@ A curated collection of fascinating technologies, frameworks, tools, and innovat
 
 - [About](#about)
 - [Featured Technologies](#featured-technologies)
-- [Categories](#categories)
-  - [Web & Frontend](#web--frontend)
-  - [Backend & Infrastructure](#backend--infrastructure)
-  - [AI & Machine Learning](#ai--machine-learning)
-  - [DevOps & Tools](#devops--tools)
-  - [Languages & Runtimes](#languages--runtimes)
-  - [Databases & Data](#databases--data)
+  - [Varlock](#-varlock)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,47 +22,17 @@ This repository serves as a personal knowledge base and collection of cutting-ed
 
 ## Featured Technologies
 
-Coming soon! 🎯
+### 🔐 [Varlock](https://varlock.dev/)
 
----
+**AI-safe environment variable management**
 
-## Categories
+Declarative schema for environment variables with full context for AI agents while keeping secret values secure. Features include:
+- Sensitive value protection (never exposed to AI)
+- Type validation (strings, enums, etc.)
+- External data fetching via function calls
+- Default value support for non-sensitive configs
 
-### 🌐 Web & Frontend
-
-Technologies and frameworks for building modern user interfaces.
-
-- *Add your favorites here*
-
-### ⚙️ Backend & Infrastructure
-
-Server-side technologies, APIs, and architectural patterns.
-
-- *Add your favorites here*
-
-### 🤖 AI & Machine Learning
-
-Artificial intelligence, machine learning, and deep learning tools.
-
-- *Add your favorites here*
-
-### 🛠️ DevOps & Tools
-
-Development tools, CI/CD, containerization, and infrastructure automation.
-
-- *Add your favorites here*
-
-### 📝 Languages & Runtimes
-
-Programming languages and runtime environments.
-
-- *Add your favorites here*
-
-### 💾 Databases & Data
-
-Data storage, management, and processing systems.
-
-- *Add your favorites here*
+**Use Case:** Secure secret management for applications that integrate with AI agents like OpenAI, while preventing accidental exposure of API keys and tokens.
 
 ---
 
